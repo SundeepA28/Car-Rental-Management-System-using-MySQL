@@ -1,0 +1,5 @@
+category_name,no_of_persons,cost_per_day,Delay_Fee_per_hour
+('ECONOMY', 5, 30, 0.9),
+('STANDARD', 5, 38, 1.14),
+('MINI VAN', 7, 70, 2.1),
+('FULL SIZE SUV', 8, 60, 1.8);
