@@ -20,17 +20,17 @@ This is a simple car rental management system built using the MySQL database. Th
 ```bash
 streamlit run app.py
 ```
-- On the front End you can perform ***CRED** Operations on the database. You will also be provided with a Command Prompt to perform SQL Queries on the database.
+- On the front End you can perform ***CRED*** Operations on the database. You will also be provided with a Command Prompt to perform SQL Queries on the database.
 
 # Features
-Booking: Allows users to rent a car for a specified duration
-Car : Allows the management/User to know all the details of a specific Car.
-Car Category : Allows the User/Management to Know the car that comes under a specific Category like Sedan, SUV, etc.
+- Booking: Allows users to rent a car for a specified duration
+- Car : Allows the management/User to know all the details of a specific Car.
+- Car Category : Allows the User/Management to Know the car that comes under a specific Category like Sedan, SUV, etc.
                This allows us to set a fixed price for a specific category of cars.
-Car Insurance : Allows the User to buy Insurance for the Car.
-Car Location : Allows the User/Management to view the Location of the Car.
-Customer : Allows the Management to maintain all the details of the Customer.
-Payment : Allows the User to make a payment for the Car.
+- Car Insurance : Allows the User to buy Insurance for the Car.
+- Car Location : Allows the User/Management to view the Location of the Car.
+- Customer : Allows the Management to maintain all the details of the Customer.
+- Payment : Allows the User to make a payment for the Car.
 
 
 
